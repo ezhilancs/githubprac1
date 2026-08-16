@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Created text1.txt File
+=======
+UPDATED
+>>>>>>> f0dc711de3c90086ad8baaa277b2151c15aee504
